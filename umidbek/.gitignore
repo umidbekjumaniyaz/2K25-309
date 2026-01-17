@@ -1,0 +1,9 @@
+.dart_tool/
+.packages
+build/
+.dart_tool/pub/
+.pub-cache/
+.pub/
+.DS_Store
+coverage/
+**/*.swp
